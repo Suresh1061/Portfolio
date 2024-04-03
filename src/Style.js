@@ -7,7 +7,7 @@ const styles = {
   homeHeadingText:
     "font-black lg:text-[80px] sm:text-[70px] text-[60px] max-[400px]:text-[50px] lg:leading-[98px]",
   homeSubText:
-    "text-[#dfd9ff] lg:text-[40px]  text-[30px] max-[400px]:text-[25px]  lg:leading-[40px]",
+    "text-[#dfd9ff] lg:text-[35px]  text-[25px] max-[400px]:text-[20px]  lg:leading-[38px]",
   headingText:
     "text-[50px] text-[55px] sm:text-[60px] font-Poppins font-[600] capitalize text-center mb-16",
   subHeadingText:
