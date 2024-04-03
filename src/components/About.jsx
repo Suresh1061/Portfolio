@@ -40,7 +40,7 @@ const About = () => {
             I am a passionate and driven individual pursuing a Bachelor of
             Technology degree in Electronics and Communication Engineering from
             Ramkrishna Mahato Government Engineering College in Purulia, West
-            Bengal.I am a enthusiastic and dedicated Front-End Web Developer
+            Bengal.I am a enthusiastic and dedicated Fullstack Web Developer
             with a strong foundation in React.js, Tailwind CSS, and proficiency
             in Data Structures and Algorithms (DSA) with adept in C++
             programming.I am passionate about creating elegant and user-friendly
