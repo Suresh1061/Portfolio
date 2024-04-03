@@ -34,7 +34,7 @@ const Home = () => {
             />
           </h1>
           <a
-            href="https://drive.google.com/file/d/1WHGvlaFpP75lMFDxjnwfN9x7-lma_yFb/view?usp=sharing"
+            href="https://drive.google.com/file/d/1r3Fu8X8Ewgis17vtpdRsJ1MPLRa_4CJa/view?usp=drive_link"
             target="_blank"
             className=" w-full flex justify-center items-center mt-4 sm:mt-10"
           >
