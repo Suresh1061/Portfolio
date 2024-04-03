@@ -41,7 +41,7 @@ const About = () => {
             Technology degree in Electronics and Communication Engineering from
             Ramkrishna Mahato Government Engineering College in Purulia, West
             Bengal.I am a enthusiastic and dedicated Fullstack Web Developer
-            with a strong foundation in React.js, Tailwind CSS, and proficiency
+            with a strong foundation in MongoDB, Express js, Node js, React.js and Next js and Tailwind CSS and also i am proficient
             in Data Structures and Algorithms (DSA) with adept in C++
             programming.I am passionate about creating elegant and user-friendly
             web applications, eager to contribute technical expertise and
